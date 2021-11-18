@@ -5,6 +5,6 @@ The TRAINING and TESTPARTIAL data sets contain informatio for disjoint sets of l
 
 In the training data, the response variables we wish to predict are:
 
-     NMONTHS, the number of months until the mortgage is taken from the books due to foreclosure, prepayment, etc..
+     NMONTHS, the number of months until the mortgage is taken from the books due to foreclosure, prepayment, etc.
      
      FORCLOSED is a boolean variable that indicates whether the mortgage foreclosed (True) or not (False)
