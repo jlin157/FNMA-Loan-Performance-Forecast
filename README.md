@@ -3,7 +3,7 @@ The aim of this project is to develop prediction models for the length of time t
 
 The TRAINING and TESTPARTIAL data sets contain informatio for disjoint sets of loans
 
-In the training data, the response variables we wish to predict are:
+In the training data, the response variables we wish to predict are,
 
      NMONTHS, the number of months until the mortgage is taken from the books due to foreclosure, prepayment, etc
      
